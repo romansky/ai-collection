@@ -761,6 +761,7 @@ Translations:
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | AI Powered Skill-Suggestion. | Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics. | :grey_question: |
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
+| [Pth.AI](https://www.pth.ai/?ref=aicollection) | Peronal Co-pilot | Pth.AI guides non-professional business users towards their goals by asking questions and creating steps, making it easier to interact with AI systems | :white_check_mark: |
 
 <!--End of Productivity & Personal Growth 40-->
 
